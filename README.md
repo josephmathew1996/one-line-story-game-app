@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+Note: 
+You will have to run the api server first to avoid unwanted error rendering the fronend application.
+
+I haven't focussed on polishing the UI to its finest form. The styling is very basic so please dont expect the best quality UI/UX experience. I have mainly focussed on the functionality of the user storise provided in the coding challenge. I have developed a basic UI app which will covers that. There are lots of improvements and optmisations which can be done to this app.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
